@@ -1,0 +1,26 @@
+{
+  "name": "screensaver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bulmenisaurus/screensaver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bulmenisaurus/screensaver/issues"
+  },
+  "homepage": "https://github.com/Bulmenisaurus/screensaver#readme",
+  "dependencies": {
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
